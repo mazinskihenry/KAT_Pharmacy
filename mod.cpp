@@ -1,0 +1,14 @@
+name = "KAT - Advanced Pharmacy";
+dir = "@KAT_Pharmacy";
+picture = "larynx.paa";
+actionName = "Join the Cav!";
+action = "https://7cav.us/enlist";
+logo = "larynx.paa";
+logoOver = "larynx.paa";
+tooltip = "KAT-Pharmacy";
+tooltipOwned = "KAT-Pharmacy";
+overview = "The KAT Medical System is nice, but we can do it better-er with even more medications and new functions.";
+author = "Katalam - Edits by 2LT.Mazinski";
+overviewPicture = "larynx.paa";
+overviewText = "KAT-Pharmacy";
+overviewFootnote = "";
